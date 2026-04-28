@@ -10,6 +10,5 @@ def majority_element(nums):
         return candidate
     return None
 
-# Example usage
 print(majority_element([3,3,4,2,3,3,5])) 
 print(majority_element([2,2,1,1,1,2,2])) 
